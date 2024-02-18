@@ -2,7 +2,7 @@
 
 Welcome to the Mango Panel Repository! Our login system is a robust, user-friendly, and well-managed Node.js panel designed to provide secure authentication for your web applications. Whether you're working on a personal project or a large-scale application, our login system offers a reliable way to protect user accounts and data.
 
-## 💕 Updates v2.2.1 
+## 💕 Updates v2.5.1 
 - removed Manual Verification of Account
 - Added the unique ID of user Accounts
 - Updated Authentication Routes
