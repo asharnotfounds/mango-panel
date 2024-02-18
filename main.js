@@ -51,7 +51,7 @@ modulesJs.forEach(file => {
     console.log(`err`, error);
   }
 });
-log(chalk.green("<==========<  Module Loader  >==========>"))
+log(chalk.bgWhiteBright(" SYSTEM ") + chalk.bgBlue(" Module Loader "))
 console.table(loadedFiles);
 
 
