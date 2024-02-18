@@ -23,7 +23,7 @@ indexRoute.forEach(file => {
     console.log(`err`, error);
   }
 });
-log(chalk.green("<==========<  Route Loader  >==========>"))
+log(chalk.bgWhiteBright(" SYSTEM ") + chalk.bgBlue(" Route Loader "))
 
 console.table(loadedFiles);
 
